@@ -1,0 +1,11 @@
+.header {
+    position: fixed;
+    z-index: 5;
+    background: #203259;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.header>span {
+    margin-left: 10px;
+}
